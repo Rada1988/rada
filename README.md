@@ -1,4 +1,4 @@
-# rada<!DOCTYPE html>
+!DOCTYPE html>
 <html>
     <head>
 <title>Radek Niejadek i Basia Dupasia  </title>
